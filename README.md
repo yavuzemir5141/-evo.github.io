@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
-  <style>
-  H1{color=red}
-  </style>
 <head>
-  
+  <style> {
+  color:red;
+  }
 <title>Benim Sitem</title>
 </head>
 <body>
