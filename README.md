@@ -3,7 +3,7 @@
 <head>
   <style>
   H1 {
-  color:red;
+  color: red;
   }
   
 </style>
