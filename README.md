@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+  <style>
+  H1{color=red}
 <head>
-  <style> 
-H1{color=red}
+  
 <title>Benim Sitem</title>
 </head>
 <body>
