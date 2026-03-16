@@ -4,7 +4,8 @@
   <style> {
   color:red;
   }
-<title>Benim Sitem</title>
+  
+</style>
 </head>
 <body>
 
