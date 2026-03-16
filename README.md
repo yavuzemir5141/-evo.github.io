@@ -2,7 +2,7 @@
 <html>
 <head>
   <style>
-  H1 {
+  h1 {
   color =red
   }
   
