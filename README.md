@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
+  <style>
+  H1 {color: red;} 
+  </style>
 <head>
   <style>
-  h1 {
-  color =red
-  }
   
 </style>
 </head>
