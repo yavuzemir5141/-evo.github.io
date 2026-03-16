@@ -2,6 +2,7 @@
 <html>
   <style>
   H1{color=red}
+  </style>
 <head>
   
 <title>Benim Sitem</title>
