@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
-  <style>
-  H1 {color=red;} 
-  </style>
 <head>
-
+<style>
+h1 {
+  color: red;
+}
+</style>
 </head>
+
 <body>
 
-<h1>barışmak için geçen günler</h1>
-<p></p>
+<h1>Barışmak için geçen günler</h1>
 
 </body>
 </html>
